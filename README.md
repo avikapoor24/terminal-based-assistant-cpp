@@ -103,8 +103,11 @@ make
 
 ## 🏗️ Future Enhancements
 🚀 Data export/import functionality
+
 🚀 Multi-language support
+
 🚀 Cloud backup integration
+
 🚀 Graphical analytics for performance tracking
 
 ## 🤝 Contributing
