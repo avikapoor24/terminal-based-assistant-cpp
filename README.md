@@ -19,7 +19,7 @@ A lightweight, C++ terminal-based personal assistant that helps manage **tasks, 
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+https://github.com/avikapoor24/terminal-based-assistant-cpp.git
 cd YOUR_REPO_NAME
 ```
 
