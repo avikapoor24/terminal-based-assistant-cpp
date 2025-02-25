@@ -1,0 +1,6 @@
+Mathematics,18,20,2025-02-20
+Computer Science,12,15,2025-02-22
+Physics,13,18,2025-02-19
+English Literature,8,10,2025-02-24
+Database Systems,14,15,2025-02-23
+Software Engineering,12,16,2025-02-21

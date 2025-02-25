@@ -1,0 +1,6 @@
+Mathematics,92.5,4.0,5,20
+Computer Science,88.0,3.7,4,15
+Physics,76.5,3.0,4,15
+English Literature,84.0,3.3,3,10
+Database Systems,90.0,4.0,5,15
+Software Engineering,87.5,3.7,4,15

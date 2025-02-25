@@ -1,0 +1,7 @@
+0,Mathematics,Monday,09:00,10:30,Room 301,Dr. Johnson
+1,Physics,Monday,11:00,12:30,Room 205,Prof. Williams
+2,Computer Science,Tuesday,09:00,11:00,Lab 102,Dr. Smith
+3,English Literature,Tuesday,13:00,14:30,Room 401,Prof. Davis
+4,Database Systems,Wednesday,10:00,12:00,Lab 105,Dr. Brown
+5,Software Engineering,Thursday,14:00,16:00,Room 302,Prof. Wilson
+6,Physics Lab,Friday,09:00,12:00,Lab 201,Dr. Miller

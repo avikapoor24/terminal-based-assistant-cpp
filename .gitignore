@@ -1,0 +1,11 @@
+# Ignore compiled files
+assistant
+*.o
+
+# Ignore build directories
+/build
+/bin
+/obj
+
+# Ignore MacOS system files
+.DS_Store
