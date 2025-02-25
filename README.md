@@ -20,7 +20,7 @@ A lightweight, C++ terminal-based personal assistant that helps manage **tasks, 
 
 ```bash
 https://github.com/avikapoor24/terminal-based-assistant-cpp.git
-cd YOUR_REPO_NAME
+cd chatbotassistant
 ```
 
 ### **2️⃣ Install Dependencies**
